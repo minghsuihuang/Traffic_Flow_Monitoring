@@ -23,3 +23,7 @@ To run the code, follow these steps:
 1.Open Google Colab.
 
 2.Upload the Traffic_Flow_Monitoring.ipynb notebook to your Google Colab environment.
+
+## Result
+
+<img width="1278" alt="Result" src="https://github.com/minghsuihuang/Traffic_Flow_Monitoring/assets/145117810/57f0de1f-acc4-4b3f-9664-550b007c0d32">
